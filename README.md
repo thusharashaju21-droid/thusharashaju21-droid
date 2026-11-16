@@ -3,19 +3,45 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:2563EB&height=180&section=header&text=THUSHARA%20V%20S&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=70" width="100%" />
 
-### Python Full Stack Developer Trainee | Django REST Framework | ReactJS | MySQL
 
-</div>
+<h3>👋 Hello, I'm Thushara V S</h3>
 
-I'm a passionate Python Full Stack Developer Trainee interested in building practical web applications and REST APIs. I enjoy learning new technologies, improving my programming skills, and developing projects that solve real-world problems.
+<h4>🚀 Python Full Stack Developer | Django REST Framework | ReactJS</h4>
 
-- 🔭 Currently learning Python Full Stack Development
-- 🌱 Exploring Django REST Framework and ReactJS
-- 💻 Interested in Backend Development and API Development
+Passionate about building scalable web applications and REST APIs. I enjoy transforming ideas into functional applications while continuously exploring new technologies and strengthening my development skills.
+
+- 🔭 Currently working on Full Stack Development Projects
+- 🌱 Exploring Django REST Framework & ReactJS
+- ⚡ Focused on Backend Development & REST API Design
 - 🎓 Diploma in Computer Engineering
 - 📍 Kerala, India
 
----
+- 
+<h2>⚡ Turning Ideas Into Web Applications</h2>
+
+Hey there! I'm Thushara V S, a Python Full Stack Developer Trainee passionate about creating web applications and exploring backend technologies.
+
+**What I Do**
+- 💻 Build web applications using Python & Django
+- 🔌 Develop REST APIs using Django REST Framework
+- 🎨 Explore frontend development with ReactJS
+- 🗃️ Work with MySQL databases
+
+**Current Focus:** Full Stack Development | Backend Engineering | API Development
+
+
+<h3>👋 Hello, I'm Thushara V S</h3>
+
+<h4>🚀 Python Full Stack Developer | Django REST Framework | ReactJS</h4>
+
+Passionate about building scalable web applications and REST APIs. I enjoy transforming ideas into functional applications while continuously exploring new technologies and strengthening my development skills.
+
+- 🔭 Currently working on Full Stack Development Projects
+- 🌱 Exploring Django REST Framework & ReactJS
+- ⚡ Focused on Backend Development & REST API Design
+- 🎓 Diploma in Computer Engineering
+- 📍 Kerala, India
+
 
 ## 🌐 SOCIAL LINKS
 

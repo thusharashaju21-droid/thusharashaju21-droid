@@ -15,7 +15,7 @@ I'm passionate about backend development and building practical web applications
 
 ## 🌐 CONNECT WITH ME
 
-- LinkedIn: https://www.linkedin.com/in/thushara-vs/
+- LinkedIn: linkedin.com/in/thushara-vs-
 - GitHub: https://github.com/thusharashaju21-droid
 - Email: thusharashaju21@gmail.com
 

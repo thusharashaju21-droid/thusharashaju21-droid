@@ -1,17 +1,39 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:2563EB&height=180&section=header&text=THUSHARA%20V%20S&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=70" width="100%" />
 
 
-<h3>👋 Hello, I'm Thushara V S</h3>
 
-<h4>🚀 Python Full Stack Developer | Django REST Framework | ReactJS</h4>
+<div align="center">
 
-Passionate about building scalable web applications and REST APIs. I enjoy transforming ideas into functional applications while continuously exploring new technologies and strengthening my development skills.
+# 👋 Hey, I'm Thushara V S
 
-- 🔭 Currently working on Full Stack Development Projects
-- 🌱 Exploring Django REST Framework & ReactJS
-- ⚡ Focused on Backend Development & REST API Design
+### `Python Developer` | `Django REST Framework` | `ReactJS`
+
+**Code. Create. Innovate. Grow.**
+
+</div>
+
+---
+
+### 💫 A Little About Me
+
+I'm a Python Full Stack Developer Trainee passionate about web development, backend engineering and building meaningful applications.
+
+I enjoy exploring technologies, developing practical projects and continuously improving my coding skills.
+
+### 🎯 What I'm Focused On
+
+- 🐍 **Backend:** Python, Django & Django REST Framework
+- ⚛️ **Frontend:** ReactJS, HTML & CSS
+- 🗄️ **Database:** MySQL
+- 🔌 **Development:** REST APIs & Web Applications
+- 🚀 **Goal:** Growing as a professional Software Developer
+
+### 📌 Quick Introduction
+
 - 🎓 Diploma in Computer Engineering
-- 📍 Kerala, India
+- 💻 Python Full Stack Development Trainee – Luminar Technolab
+- 🌍 Based in Kerala, India
+
 
 
 

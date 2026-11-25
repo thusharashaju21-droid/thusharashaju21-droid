@@ -1,138 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:650000,100:8B0000&height=200&section=header&text=THUSHARA%20VS&fontSize=55&fontColor=FFD166&fontAlignY=40&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=65" width="100%"/>
-
-<br>
-
-<img src="profile.jpg" width="180" style="border-radius:50%;" />
-
-# 👋 Hello, I'm Thushara VS
-
-### Python Full Stack Developer
-
-`Python` • `Django` • `Django REST Framework` • `React JS`
-
-*Building skills. Building projects. Building my future.*
-
-<br>
-
-<a href="https://thushara-vs-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thusharashaju21-droid">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/thushara-vs/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,100:5A1018&height=200&section=header&text=THUSHARA%20VS&fontSize=50&fontColor=E6B96A&fontAlignY=40&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=65" width="100%"/>
 
 </div>
 
----
-
-## 👩‍💻 ABOUT ME
-
-I'm a Python Full Stack Developer currently pursuing Full Stack Development training at Luminar Technolab.
-
-- 🐍 Developing my skills in Python, Django and Django REST Framework
-- 🌱 Currently learning React JS
-- 🗄️ Working with MySQL and REST API development
-- 🔐 Practicing authentication, permissions and CRUD operations
-- 💡 Interested in building practical and user-focused applications
-- 🎯 Aspiring to grow as a professional software developer
-
----
-
-## 💻 TECHNOLOGY STACK
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-FFD166?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactJS-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 🚀 FEATURED PROJECTS
-
 <table>
 <tr>
-<td width="50%">
+<td width="35%" align="center">
 
-### 🔴 CodePilot
-
-**Student Management & Evaluation API**
-
-A student assessment platform with role-based access and assessment management.
-
-- Student & Admin roles
-- JWT authentication
-- Assessment management
-- Submission workflow
-- Role-based permissions
-
-**Stack**
-
-`Python` `Django` `DRF` `MySQL`
-
-<a href="https://github.com/thusharashaju21-droid/Code_Pilot">
-<img src="https://img.shields.io/badge/Explore_Project-FFD166?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<img src="profile.jpg" width="220"/>
 
 </td>
+<td width="65%">
 
-<td width="50%">
+# Hi, I'm Thushara VS 👋
 
-### 🟡 Spending Expense
+### Python Full Stack Developer
 
-**Expense Management API**
+Python | Django | Django REST Framework
 
-An API for managing personal expenses with authentication and user-specific operations.
+I'm a developer focused on building REST APIs and web applications using Python and Django.
 
-- Expense CRUD operations
-- Authentication
-- User-specific expense data
-- Expense management
-
-**Stack**
-
-`Python` `Django` `DRF` `MySQL`
-
-<a href="https://github.com/thusharashaju21-droid/spendingexpenses">
-<img src="https://img.shields.io/badge/Explore_Project-FFD166?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+🌱 Currently learning React JS  
+📍 Kerala, India  
+🎯 Aspiring Software Developer
 
 </td>
 </tr>
@@ -140,46 +31,107 @@ An API for managing personal expenses with authentication and user-specific oper
 
 ---
 
-## 💼 EXPERIENCE
+## ABOUT ME
 
-### Python Full Stack Developer Trainee
+- 🎓 Diploma in Computer Engineering
+- 💻 Python Full Stack Development Trainee at Luminar Technolab
+- 🐍 Interested in Python Backend Development
+- 🔌 Building REST APIs with Django REST Framework
+- 🗄️ Working with MySQL
+- 🌱 Currently learning React JS
+- 🚀 Building practical projects to improve my development skills
 
-**Luminar Technolab | June 2026 – Present**
+---
+
+## TECHNICAL SKILLS
+
+<div align="center">
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, JavaScript |
+| Backend | Django, Django REST Framework |
+| Frontend | HTML, CSS, React JS |
+| Database | MySQL |
+| Tools | Git, GitHub, VS Code |
+
+</div>
+
+---
+
+## FEATURED PROJECTS
+
+### 01 · CodePilot
+
+**Student Management & Evaluation System**
+
+A REST API designed for student assessment, submission management and evaluation workflows.
+
+- JWT Authentication
+- Student & Admin roles
+- Assessment management
+- Student submissions
+- Role-based permissions
+
+`Python` `Django` `DRF` `MySQL`
+
+<a href="https://github.com/thusharashaju21-droid/Code_Pilot">VIEW PROJECT →</a>
+
+---
+
+### 02 · Spending Expense
+
+**Expense Management REST API**
+
+An API designed to manage personal expenses with authentication and user-specific data access.
+
+- Expense CRUD operations
+- Authentication
+- User-specific expenses
+- REST API development
+
+`Python` `Django` `DRF` `MySQL`
+
+<a href="https://github.com/thusharashaju21-droid/spendingexpenses">VIEW PROJECT →</a>
+
+---
+
+## EXPERIENCE
+
+**Python Full Stack Developer Trainee**  
+Luminar Technolab | June 2026 – Present
 
 - Python Full Stack Development training
 - Django & Django REST Framework
 - React JS learning
-- Practical project development
+- Practical application development
 
-### Python Full Stack Developer Intern
-
-**Grapesgenix Technical Solutions Pvt. Ltd. | May 2025 – June 2025**
+**Python Full Stack Developer Intern**  
+Grapesgenix Technical Solutions Pvt. Ltd. | May 2025 – June 2025
 
 - Developed an Online Assignment Submission System
-- Worked with Python and Django
-- Used HTML, CSS and JavaScript
-- Worked on backend and database operations
+- Python and Django development
+- HTML, CSS and JavaScript
+- Backend and database operations
 
-### Web Developer Intern
+**Web Developer Intern**  
+Star Innovations | May 2024 – June 2024
 
-**Star Innovations | May 2024 – June 2024**
-
-- Developed basic webpages
-- Worked with HTML and CSS
-
----
-
-## 🎓 EDUCATION
-
-🎓 **Diploma in Computer Engineering**
-
-📍 Nirmala Institute of Technology, Chalakudy
-
-📅 2023 – 2026
+- Basic web development
+- HTML and CSS
 
 ---
 
-## 📊 GITHUB STATISTICS
+## EDUCATION
+
+**Diploma in Computer Engineering**
+
+Nirmala Institute of Technology, Chalakudy  
+2023 – 2026
+
+---
+
+## GITHUB OVERVIEW
 
 <div align="center">
 
@@ -191,42 +143,34 @@ An API for managing personal expenses with authentication and user-specific oper
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thusharashaju21-droid&theme=github_dark" width="49%"/>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thusharashaju21-droid&theme=dark&background=0D0D0D&ring=E63946&fire=FFD166&currStreakLabel=FFD166" width="100%"/>
-
 </div>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/thushara-vs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/thushara-vs-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9E2638?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:thusharashaju21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-E63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-C9A45C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://thushara-vs-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-9E2638?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/thusharashaju21-droid">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:650000,100:8B0000&height=100&section=footer&text=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20GROW&fontSize=25&fontColor=FFD166" width="100%"/>
-
-### 🚀 Learning Today. Building Tomorrow.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,100:5A1018&height=100&section=footer&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW&fontSize=22&fontColor=E6B96A" width="100%"/>
 
 </div>

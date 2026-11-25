@@ -24,11 +24,16 @@
 
 ---
 
-## 💫 A LITTLE ABOUT ME
+## 👩‍💻 About Me
 
-I'm a Python Full Stack Developer Trainee passionate about web development, backend engineering and building meaningful applications.
+I'm a Python Full Stack Developer currently pursuing my Full Stack Development training at Luminar Technolab.
 
-I enjoy exploring technologies, developing practical projects and continuously improving my coding skills.
+- 💻 Focused on Python, Django and Django REST Framework
+- 🌱 Currently learning React JS at Luminar Technolab
+- 🗄️ Working with MySQL and REST API development
+- 🔐 Practicing authentication, permissions and CRUD operations
+- 🚀 Building practical projects to strengthen my development skills
+- 🎯 Looking for opportunities as a Python Full Stack Developer
 
 ## 🎯 WHAT I'M FOCUSED ON
 

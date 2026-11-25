@@ -1,47 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071525,50:102B49,100:087E9B&height=210&section=header&text=THUSHARA%20VS&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=19&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071525,50:102B49,100:087E9B&height=220&section=header&text=THUSHARA%20VS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=65" width="100%"/>
 
 <br/>
 
 <img src="profile.jpg" width="170" alt="Thushara VS"/>
 
-# 👋 Hello, I'm Thushara VS
+# THUSHARA VS
 
-### `Python Developer` · `Django REST Framework` · `React JS`
+### Python Full Stack Developer
+
+`Python` · `Django` · `Django REST Framework` · `React JS`
 
 **Building the logic behind ideas.**
 
 <br/>
 
 <a href="https://thushara-vs-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-20CFE0?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-20CFE0?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 <a href="https://github.com/thusharashaju21-droid">
-<img src="https://img.shields.io/badge/Explore%20Projects-102B49?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-102B49?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/thushara-vs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 ABOUT ME
+<div align="center">
+
+## ✦ ABOUT ME ✦
+
+</div>
 
 I'm a Python Full Stack Developer currently pursuing Full Stack Development training at Luminar Technolab.
 
-- 🐍 Focused on Python, Django and Django REST Framework
-- ⚛️ Currently learning React JS
-- 🗄️ Working with MySQL and REST API development
-- 🔐 Practicing authentication, permissions and CRUD operations
-- 🚀 Building practical web applications and REST APIs
-- 📍 Kerala, India
+| | |
+|---|---|
+| 🐍 | Focused on Python, Django and DRF |
+| ⚛️ | Currently learning React JS |
+| 🗄️ | Working with MySQL |
+| 🔌 | Developing REST APIs |
+| 🔐 | Practicing Authentication and Permissions |
+| 📍 | Kerala, India |
 
 ---
 
-## 💻 TECHNICAL SKILLS
+<div align="center">
+
+## ✦ TECHNICAL SKILLS ✦
+
+</div>
 
 ### 🐍 Programming Languages
 
@@ -81,29 +93,36 @@ I'm a Python Full Stack Developer currently pursuing Full Stack Development trai
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<div align="center">
+
+## ✦ FEATURED PROJECTS ✦
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔷 CodePilot</h3>
+<h3>🔷 CODEPILOT</h3>
 
-<strong>Student Management & Evaluation System</strong>
+**Student Management & Evaluation System**
 
 A REST API for managing student assessments, submissions and evaluation workflows.
 
-**Key Features**
+**FEATURES**
 
-- 🔐 JWT Authentication
-- 👥 Student & Admin Roles
-- 📝 Assessment Management
-- 📊 Submission Management
-- 🛡️ Role-based Permissions
+- JWT Authentication
+- Student & Admin Roles
+- Assessment Management
+- Submission Management
+- Role-based Permissions
 
-**Tech Stack**
+**TECHNOLOGIES**
 
-`Python` `Django` `DRF` `MySQL`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-087E9B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <br/>
 
@@ -112,25 +131,27 @@ A REST API for managing student assessments, submissions and evaluation workflow
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🔷 Spending Expense</h3>
+<h3>🔷 SPENDING EXPENSE</h3>
 
-<strong>Expense Management REST API</strong>
+**Expense Management REST API**
 
 An API for managing personal expenses with authentication and user-specific data access.
 
-**Key Features**
+**FEATURES**
 
-- 💰 Expense CRUD Operations
-- 🔐 User Authentication
-- 👤 User-specific Expenses
-- 📋 Expense Management
+- Expense CRUD Operations
+- User Authentication
+- User-specific Expenses
+- Expense Management
 
-**Tech Stack**
+**TECHNOLOGIES**
 
-`Python` `Django` `DRF` `MySQL`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-087E9B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <br/>
 
@@ -144,36 +165,38 @@ An API for managing personal expenses with authentication and user-specific data
 
 ---
 
-## 💼 EXPERIENCE
+<div align="center">
 
-### Python Full Stack Developer Trainee
+## ✦ PROFESSIONAL EXPERIENCE ✦
 
-**Luminar Technolab | June 2026 – Present**
+</div>
 
-- Learning Python Full Stack Development
-- Working with Django and Django REST Framework
+**Python Full Stack Developer Trainee**  
+Luminar Technolab | June 2026 – Present
+
+- Python Full Stack Development
+- Django and Django REST Framework
 - Currently learning React JS
-- Developing practical projects
 
-### Python Full Stack Developer Intern
-
-**Grapesgenix Technical Solutions Pvt. Ltd. | May 2025 – June 2025**
+**Python Full Stack Developer Intern**  
+Grapesgenix Technical Solutions Pvt. Ltd. | May 2025 – June 2025
 
 - Developed an Online Assignment Submission System
 - Worked with Python and Django
-- Used HTML, CSS and JavaScript
-- Worked on backend and database operations
+- HTML, CSS and JavaScript
+- Backend and database operations
 
-### Web Developer Intern
+**Web Developer Intern**  
+Star Innovations | May 2024 – June 2024
 
-**Star Innovations | May 2024 – June 2024**
-
-- Worked on basic web development
-- Created webpages using HTML and CSS
+- Basic web development
+- HTML and CSS webpages
 
 ---
 
-## 🎓 EDUCATION
+<div align="center">
+
+## ✦ EDUCATION ✦
 
 **Diploma in Computer Engineering**
 
@@ -181,11 +204,13 @@ Nirmala Institute of Technology, Chalakudy
 
 2023 – 2026
 
+</div>
+
 ---
 
-## 📊 GITHUB STATISTICS
-
 <div align="center">
+
+## ✦ GITHUB STATISTICS ✦
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thusharashaju21-droid&theme=github_dark" width="100%"/>
 
@@ -202,35 +227,29 @@ Nirmala Institute of Technology, Chalakudy
 
 ---
 
-## 🌐 CONNECT WITH ME
-
 <div align="center">
 
+## ✦ CONNECT WITH ME ✦
+
 <a href="https://www.linkedin.com/in/thushara-vs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:thusharashaju21@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-20CFE0?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-20CFE0?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://thushara-vs-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-087E9B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit-087E9B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/thusharashaju21-droid">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071525,50:102B49,100:087E9B&height=110&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20LINE%20AT%20A%20TIME&fontSize=18&fontColor=FFFFFF" width="100%"/>
-
-### ✨ Code · Create · Innovate · Grow
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071525,50:102B49,100:087E9B&height=110&section=footer&text=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE%20%E2%80%A2%20GROW&fontSize=19&fontColor=FFFFFF" width="100%"/>
 
 **Thanks for visiting my profile! 💙**
 
